@@ -2,7 +2,7 @@
 
 const config = require('hjs-webpack')({
   in: 'index.js',
-  out: '.',
+  out: 'public',
   clearBeforeBuild: true,
   html: false
 })

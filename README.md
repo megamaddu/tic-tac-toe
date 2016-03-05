@@ -1,5 +1,8 @@
 # tic-tac-toe
 
-`bower install && npm install && npm start`
+```npm install -g bower pulp```
+```npm install && bower install && pulp build```
+then
+```npm start```
 
 Navigate to localhost:3000
